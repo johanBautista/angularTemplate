@@ -25,3 +25,14 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## info de interes
+
+
+## comandos de interes -- TERMINAL
+ng new miapp = crear proyecto angular
+ng g c folder/componente = crear componente
+ng g c componente -is --skipTests = crear componente sin archivo css y test
+ng g s auth/login = crear servicio en folder auth
+ng g c componente -is -d = funcionalida rundrive donde simula q se va a crear pero no lo crea
+ng serve -o = levantar el server 
